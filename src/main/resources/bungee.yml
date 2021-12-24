@@ -1,0 +1,6 @@
+main: pro.sandiao.plugin.commandwhitelist.BungeeMain
+
+name: CommandWhitelist
+version: ${project.version}
+author: msg_dw
+description: '阻止使用白名单以外的命令'
